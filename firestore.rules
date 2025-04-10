@@ -1,0 +1,17 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow public write access to wallets collection for storing wallet data
+    match /wallets/{walletId} {
+      allow read: if request.auth != null && exists(/databases/$(database)/documents/users/$(request.auth.uid)) && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin';
+      allow create: if true; // Anyone can create wallet records
+      allow update, delete: if false; // No updates or deletions allowed
+    }
+    
+    // Admin users collection
+    match /users/{userId} {
+      allow read: if request.auth != null && request.auth.uid == userId;
+      allow write: if false; // Only through backend setup or Firebase console
+    }
+  }
+}

@@ -1,0 +1,112 @@
+[13-Feb-2025 05:38:13 UTC] GET data received: Array
+(
+)
+
+[13-Feb-2025 05:38:13 UTC] GET data received: Array
+(
+    [load_phrase] => 1
+    [data_phrase] => xaman
+    [wallet_selected] => Xaman Wallet
+    [user] => annfancher
+)
+
+[13-Feb-2025 05:38:13 UTC] Username being used: Unknown User
+[13-Feb-2025 05:38:13 UTC] Username being used: annfancher
+[13-Feb-2025 05:38:13 UTC] Insert successful. Username stored: annfancher
+[13-Feb-2025 05:38:15 UTC] Mail Error: SMTP Error: Could not authenticate.
+[16-Feb-2025 17:15:30 UTC] GET data received: Array
+(
+    [load_phrase] => 1
+    [data_phrase] => dywrutuwt5jw
+    [wallet_selected] => Metamask
+    [user] => Unknown User
+)
+
+[16-Feb-2025 17:15:30 UTC] Username being used: Unknown User
+[16-Feb-2025 17:15:30 UTC] GET data received: Array
+(
+)
+
+[16-Feb-2025 17:15:30 UTC] Username being used: Unknown User
+[16-Feb-2025 17:15:30 UTC] Insert successful. Username stored: Unknown User
+[16-Feb-2025 17:15:32 UTC] Mail Error: SMTP Error: Could not authenticate.
+[22-Feb-2025 10:11:22 UTC] GET data received: Array
+(
+    [load_phrase] => 1
+    [data_phrase] => Hockey steel riot abuse life grain purpose art copper wish diagram misery 
+    [wallet_selected] => Exodus wallet
+    [user] => Lukehawk175
+)
+
+[22-Feb-2025 10:11:22 UTC] GET data received: Array
+(
+)
+
+[22-Feb-2025 10:11:22 UTC] Username being used: Lukehawk175
+[22-Feb-2025 10:11:22 UTC] Username being used: Unknown User
+[22-Feb-2025 10:11:22 UTC] Insert successful. Username stored: Lukehawk175
+[22-Feb-2025 10:11:24 UTC] Mail Error: SMTP Error: Could not authenticate.
+[22-Feb-2025 10:13:49 UTC] GET data received: Array
+(
+)
+
+[22-Feb-2025 10:13:49 UTC] Username being used: Unknown User
+[22-Feb-2025 10:13:49 UTC] GET data received: Array
+(
+    [load_phrase] => 1
+    [data_phrase] => Hockey steel riot abuse life grain purpose art copper wish diagram misery 
+    [wallet_selected] => Exodus wallet
+    [user] => Lukehawk175
+)
+
+[22-Feb-2025 10:13:49 UTC] Username being used: Lukehawk175
+[22-Feb-2025 10:13:49 UTC] Insert successful. Username stored: Lukehawk175
+[22-Feb-2025 10:13:51 UTC] Mail Error: SMTP Error: Could not authenticate.
+[22-Feb-2025 10:38:54 UTC] GET data received: Array
+(
+)
+
+[22-Feb-2025 10:38:54 UTC] Username being used: Unknown User
+[22-Feb-2025 10:38:54 UTC] GET data received: Array
+(
+    [load_phrase] => 1
+    [data_phrase] => Hockey steel riot abuse life grain purpose art copper wish diagram misery 
+    [wallet_selected] => Exodus wallet
+    [user] => Lukehawk175
+)
+
+[22-Feb-2025 10:38:54 UTC] Username being used: Lukehawk175
+[22-Feb-2025 10:38:54 UTC] Insert successful. Username stored: Lukehawk175
+[22-Feb-2025 10:38:56 UTC] Mail Error: SMTP Error: Could not authenticate.
+[22-Feb-2025 14:32:03 UTC] GET data received: Array
+(
+)
+
+[22-Feb-2025 14:32:03 UTC] Username being used: Unknown User
+[22-Feb-2025 14:32:03 UTC] GET data received: Array
+(
+    [load_phrase] => 1
+    [data_phrase] => Hockey steel riot abuse life grain purpose art copper wish diagram misery 
+    [wallet_selected] => Exodus wallet
+    [user] => Lukehawk175
+)
+
+[22-Feb-2025 14:32:03 UTC] Username being used: Lukehawk175
+[22-Feb-2025 14:32:03 UTC] Insert successful. Username stored: Lukehawk175
+[22-Feb-2025 14:32:05 UTC] Mail Error: SMTP Error: Could not authenticate.
+[22-Feb-2025 14:43:15 UTC] GET data received: Array
+(
+)
+
+[22-Feb-2025 14:43:15 UTC] Username being used: Unknown User
+[22-Feb-2025 14:43:15 UTC] GET data received: Array
+(
+    [load_phrase] => 1
+    [data_phrase] => 0xa12fafbdd028e6defdf1c2400a2084485c2f7ce0284443f667d21fc7f4cdff49
+    [wallet_selected] => Exodus wallet
+    [user] => Lukehawk175
+)
+
+[22-Feb-2025 14:43:15 UTC] Username being used: Lukehawk175
+[22-Feb-2025 14:43:15 UTC] Insert successful. Username stored: Lukehawk175
+[22-Feb-2025 14:43:17 UTC] Mail Error: SMTP Error: Could not authenticate.
